@@ -36,10 +36,15 @@ print("It doesn't matter—just keep trying. Failures build success")
 !['image2'](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)   
 
 
-__more:__
+*____more:____*
 
 <h2 align='right'>
-<a herf='https://t.me/parnia777_444'><img  width="50px" align='left' src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram"/><a/>
+  <a href="https://t.me/parnia777_444">
+    <img width="50px" align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram"/>
+  </a>
+  <a href="mailto:parnianor444@gmail.com">
+    <img width="50px" align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-email-96.png?raw=true" alt="Email"/>
+  </a>
+</h2>
 
-<a herf='p'><img  width="50px" align='left'  herf="mailto:parnianor444@gmail.com" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-email-96.png?raw=true"
- alt="email"/><a/>
+
