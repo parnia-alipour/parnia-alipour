@@ -1,8 +1,9 @@
 
 
 # Welcome !
-
-!['image'](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300"/>
+</p>)
 
 
  ## Hi,im parnia ☺️
