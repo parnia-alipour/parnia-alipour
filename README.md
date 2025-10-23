@@ -28,6 +28,7 @@ else:
 print("It doesn't matter—just keep trying. Failures build success")
 
 ```
+## **Github stats** 🌟
 
 !['image'](https://github-readme-stats.vercel.app/api?username=parnia-alipour&anuraghazra&show_icons=true&theme=cobalt) !['image'](https://github-readme-stats.vercel.app/api/top-langs/?username=parnia-alipour&anuraghazra&stats_format=bytes)
 
