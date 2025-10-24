@@ -32,7 +32,10 @@ print(informasion)
 ```
 ## **Github stats** 🌟
 
-!['image'](https://github-readme-stats.vercel.app/api?username=parnia-alipour&anuraghazra&show_icons=true&theme=cobalt) !['image'](https://streak-stats.demolab.com/?user=parnia-alipour&DenverCoder1&theme=tokyonight)
+!['image'](https://github-readme-stats.vercel.app/api?username=parnia-alipour&anuraghazra&show_icons=true&theme=cobalt) !['image'](https://github-readme-stats.vercel.app/api/top-langs/?username=parnia-alipour&anuraghazra&stats_format=bytes)
+
+
+!['image'](https://streak-stats.demolab.com/?user=parnia-alipour&DenverCoder1&theme=tokyonight)
 
 !['image'](https://github-readme-stats.vercel.app/api/top-langs/?username=parnia-alipour&anuraghazra&stats_format=bytes)
 
