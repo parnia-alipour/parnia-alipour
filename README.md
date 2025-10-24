@@ -19,11 +19,17 @@
 > On my journey, I prefer to face challenges head-on, gain hands-on experience, and grow through my own structured path.
 
 ```python
-informasion={
-      'name':'parnia',
-      'last_name':'alipour',
-      'loc':'arak',
+x=str(input('name:'))
+y=str(input('last_name:'))
+z=str(input('location:'))
+
+information={
+
+      'name':x,
+      'last_name':y,
+      'loc':z
 }
+print(informasion)
 ```
 ## **Github stats** 🌟
 
