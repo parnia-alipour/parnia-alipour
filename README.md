@@ -19,12 +19,13 @@
 > On my journey, I prefer to face challenges head-on, gain hands-on experience, and grow through my own structured path.
 
 ```python
-x=Success
-if me ==x:
-print ("You did it!")
-else:
-print("It doesn't matter—just keep trying. Failures build success")
+me = input("Enter: ")
+x = "Success"
 
+if me == x:
+    print("You did it!")
+else:
+    print("It doesn't matter—just keep trying. Failures build success")
 ```
 ## **Github stats** 🌟
 
