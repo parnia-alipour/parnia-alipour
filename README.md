@@ -19,13 +19,11 @@
 > On my journey, I prefer to face challenges head-on, gain hands-on experience, and grow through my own structured path.
 
 ```python
-me = input("Enter: ")
-x = "Success"
-
-if me == x:
-    print("You did it!")
-else:
-    print("It doesn't matter—just keep trying. Failures build success")
+informasion={
+      'name':'parnia',
+      'last_name':'alipour',
+      'loc':'arak',
+}
 ```
 ## **Github stats** 🌟
 
@@ -47,5 +45,7 @@ else:
     <img width="50px" align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-email-96.png?raw=true" alt="Email"/>
   </a>
 </h2>
+
+
 
 
