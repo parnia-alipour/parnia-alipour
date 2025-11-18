@@ -9,13 +9,13 @@
 
 !['image4'](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
- Passionate about Artificial documented creative projects with a strong interest in ***Artificial Intelligence*** and its real-world applications 🤖
+ Passionate about Artificial documented creative projects with a strong interest in ***Artificial Intelligence*** and its real world applications 🤖
 !['image4'](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
- Always learning and refining my skills—with a focus on practical and imaginative concepts 🧠
+ Always learning and refining my skills with a focus on practical and imaginative concepts 🧠
 !['image4'](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-> On my journey, I prefer to face challenges head-on, gain hands-on experience, and grow through my own structured path.
+> On my journey, I prefer to face challenges head on, gain hands-on experience, and grow through my own structured path.
 
 ```python
 x=str(input('name:'))
