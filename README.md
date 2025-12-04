@@ -56,7 +56,7 @@ print(informasion)
     <img width=50px align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-whatsapp-96.png?raw=true" alt="whatsapp"/>
     <a/>
     <a herf="https://eitaa.com/parnia444777">
-     <img width=50px align="left" scr="https://github.com/parnia-alipour/parnia-alipour/blob/main/logo-eitaa-app-download-png-vector-Toranjlogo%20(1).png?raw=true" alt="eitaa"/>
+     <img width=50px align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/logo-eitaa-app-download-png-vector-Toranjlogo%20(1).png?raw=true" alt="eitaa"/>
   </a>
 </h2>
 
