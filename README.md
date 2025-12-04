@@ -51,8 +51,9 @@ print(informasion)
   </a>
   <a href="mailto:parnianor444@gmail.com">
     <img width="50px" align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-email-96.png?raw=true" alt="Email"/>
-   <a heref="https://wa.me/989036014334"
-    <img width=50px align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-whatsapp-96.png?raw=true" alt="whatsapp"
+  </a>
+   <a heref="https://wa.me/989036014334">
+    <img width=50px align="left" src="https://github.com/parnia-alipour/parnia-alipour/blob/main/icons8-whatsapp-96.png?raw=true" alt="whatsapp"/>
   </a>
 </h2>
 
