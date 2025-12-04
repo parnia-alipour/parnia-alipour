@@ -35,11 +35,11 @@ print(informasion)
 !['image'](https://github-readme-stats.vercel.app/api?username=parnia-alipour&anuraghazra&show_icons=true&theme=cobalt) !['image'](https://github-readme-stats.vercel.app/api/top-langs/?username=parnia-alipour&anuraghazra&stats_format=bytes)
 
 
-!['image'](https://streak-stats.demolab.com/?user=parnia-alipour&DenverCoder1&theme=tokyonight)
+!['image1'](https://streak-stats.demolab.com/?user=parnia-alipour&DenverCoder1&theme=tokyonight)
 
 
 
-!['image2'](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)   
+!['image2'](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)    
 
 
 
